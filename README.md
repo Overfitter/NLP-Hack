@@ -25,4 +25,4 @@
 
 ## Overview
 
-The goal of this repository is to build a comprehensive set of solutions and examples that leverage recent advances in NLP algorithms, neural architectures, and distributed machine learning systems.
+The goal of this repository is to build a comprehensive set of solutions/pipelines and examples that leverage basic as well as advances NLP algorithms, neural architectures, and distributed machine learning systems.
