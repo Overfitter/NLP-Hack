@@ -1,6 +1,6 @@
 <h1 align="center">🚀 NLP-Hack</h1>
 
-<p align="center">Natural Language Processing - Pipeline Repository</p>
+<p align="center">Natural Language Processing - Solutions Repository</p>
 <p align="center">
   <a href="https://github.com/Overfitter/NLP-Hack/stargazers">
     <img src="https://img.shields.io/github/stars/Overfitter/NLP-Hack.svg?colorA=orange&colorB=orange&logo=github"
